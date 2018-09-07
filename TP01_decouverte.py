@@ -20,8 +20,10 @@ from vm import *
 if __name__ == '__main__': import test_TP01 as testeur
 # NE PAS COMMENTER la ligne precedente...
 
+
+
 # ***************************************************************************
-# Premier travail: ecrire print('Hello World !') a la ligne 27 ci-dessous.
+# Premier travail: ecrire print('Hello World !') a la ligne 29 ci-dessous.
 # ***************************************************************************
 
 
