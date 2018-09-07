@@ -163,7 +163,7 @@ Quelques mélanges
     opérationnelle, le chef de la police voudrait étendre les
     vérifications à l’ensemble des habitants de la ville. Il vous
     demande d’écrire une fonction `verification_ville` qui prend une liste `infos_habitants` en arguments qui,
-    pour chaque habitant, donne les cinq informations nécessaire à
+    pour chaque habitant, donne les cinq informations nécessaires à
     l’usage de votre fonction `est_espion`. En utilisant la fonction précédente,
     étendre vos recherches à la ville entière en renvoyant une
     liste contenant pour chaque habitant la mention `"Très probable"`, `"Probable"`, `"Peu probable"` ou `"Impossible"`
