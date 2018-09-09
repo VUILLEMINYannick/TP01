@@ -152,7 +152,7 @@ Quelques mélanges
     Lorsque cela n’est pas précisé explicitement, les inégalités sont au
     sens large.
     La fonction doit tester tous les critères et s’ils sont vérifiés
-    tous les 5, elle doit renvoyer `"Très probable"`. Si seulement 3 ou 4 sont vérifiés,
+    tous les 5, elle doit renvoyer `"Tres probable"`. Si seulement 3 ou 4 sont vérifiés,
     elle doit renvoyer `"Probable"`. Si aucun n’est vérifié elle doit renvoyer `"Impossible"` et
     dans les autres cas, elle doit renvoyer `"Peu probable"`.
 
@@ -166,7 +166,7 @@ Quelques mélanges
     pour chaque habitant, donne les cinq informations nécessaires à
     l’usage de votre fonction `est_espion`. En utilisant la fonction précédente,
     étendre vos recherches à la ville entière en renvoyant une
-    liste contenant pour chaque habitant la mention `"Très probable"`, `"Probable"`, `"Peu probable"` ou `"Impossible"`
+    liste contenant pour chaque habitant la mention `"Tres probable"`, `"Probable"`, `"Peu probable"` ou `"Impossible"`
     correspondante. NB: On peut construire une liste avec la méthode `.append`.
     L’exemple suivant (à adapter selon vos besoins) construit une liste
     qui contient les 10 premiers entiers pairs en partant d’une liste
