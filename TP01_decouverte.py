@@ -26,7 +26,7 @@ if __name__ == '__main__': import test_TP01 as testeur
 # Premier travail: ecrire print('Hello World !') a la ligne 29 ci-dessous.
 # ***************************************************************************
 
-
+print("Hello World !")
 
 # ***************************************************************************
 # La fonction qui salue le monde vivant
@@ -34,17 +34,17 @@ if __name__ == '__main__': import test_TP01 as testeur
 
 def hello_world():
     '''Normalement, cela doit renvoyer Hello World !'''
-    return 'Mais il va falloir changer des choses...'
+    return "Hello World !"
 
 # Ligne suivante a decommenter pour tester la fonction hello_world()
-#if __name__ == '__main__': testeur.fais_tests('00_hello')
+if __name__ == '__main__': testeur.fais_tests('00_hello')
 
 # *************************************************************************** 
 # Mettre ici (enfin ci-apres... l'idee est de garder les lignes de 
 # commentaires qui definissent ce qui va suivre et non de les effacer...) les 
 # assignations demandees dans la premiere section 
 # ***************************************************************************
-
+ma_variable = 42
 
 
 
